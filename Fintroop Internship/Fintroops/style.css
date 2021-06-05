@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url('photo2.jpeg');
+    background-size: 100%;
+}
+.container{
+    text-align: center;
+    padding-top: 10%;
+    padding-right: 38%;
+    padding-left: 38%;
+    padding-bottom: 10%;
+}
+.ID{
+    background-color:cornsilk;
+    padding-top: 10%;
+    box-shadow: 2px 2px 30px rgb(128, 4, 0);
+}
+input#Name
+{
+    width: 150px;
+    box-shadow: 1px 1px 5px black;
+}
+input#Name1{
+    width: 160px;
+    box-shadow: 1px 1px 5px black;
+}
+input#Name2{
+    width: 190px;
+}
